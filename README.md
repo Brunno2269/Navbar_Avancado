@@ -1,3 +1,5 @@
+![Captura de tela de 2025-02-03 15-25-37](https://github.com/user-attachments/assets/dfd796be-1fba-47f9-a97d-ee7df44cf04b)
+
 # Navbar Avançada
 
 Este é um projeto de uma **navbar avançada** desenvolvida com Flask, HTML, CSS e JavaScript. Ele inclui funcionalidades modernas como navegação responsiva, dropdowns, animações suaves e design adaptável para diferentes dispositivos.
